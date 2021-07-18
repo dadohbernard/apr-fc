@@ -1,0 +1,20 @@
+{
+  "name": "APRFC",
+  "displayName": "APRFC",
+  "expo": {
+    "name": "APRFC",
+    "slug": "APRFC",
+    "icon": "./assets/loog.png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.dadoh.APRFC"
+    },
+    "description": "APRFC",
+    "ios": {
+      "bundleIdentifier": "com.dadoh.APRFC"
+    }
+  }
+}
